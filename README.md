@@ -11,6 +11,12 @@ The Home Assistant model contains the HA logo. Use multiple colors to make the l
 
 
 
+## :globe_with_meridians: Links
+
+
+
+- **Printables**: [https://www.printables.com/model/174287-waveshare-raspberry-pi-compute-module-case-lid](https://www.printables.com/model/174287-waveshare-raspberry-pi-compute-module-case-lid)
+
 ## :triangular_ruler: CAD files
 
 3d files are located in the [CAD](./CAD) directory.
@@ -32,6 +38,7 @@ The Home Assistant model contains the HA logo. Use multiple colors to make the l
 ![](photos%2FIMG_3022.jpeg)
 ![](photos%2FIMG_3017.jpeg)
 ![](photos%2FIMG_3020.jpeg)
+![](photos%2Fcm-io-poe-box-1.jpeg)
 ![](photos%2Fcropped)
 
 ---
