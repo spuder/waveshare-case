@@ -1,26 +1,29 @@
 ---
-name: Changeme
+name: Waveshare-Case
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
+  3D printable Lid for the Waveshare POE adapter board
 
-  **Do not edit README.md directly as it will be overwritten..**
+  I have a CM-10-POE-Box, however I lost the lid. 
+  Included are 2 designs:
+  1. Plain
+  2. Home Assistant
+
+  The Home Assistant model contains the HA logo. Use multiple colors to make the logo stand out
+
+
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
   year: 2022
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+  Waveshare Compute Module 3: https://www.waveshare.com/product/raspberry-pi/boards-kits/compute-module/cm-io-poe-box.htm
+# fusion_link: https://autodesk.example.com #comment out if no fusion link
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Printables: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+#   Thingiverse: https://www.thingiverse.com/thing:xxxx
+  Printables: https://www.printables.com/model/174287-waveshare-raspberry-pi-compute-module-case-lid
+#   GrabCad: https://foo.com
+#   Hackster.io: https://hackster.io/foo
+#   Hackaday: https://hackaday.io/foo
+#   Reddit: https://www.reddit.com/r/foo
+#   Github: https://github.com/foo
+#   Blog: https://foo.com

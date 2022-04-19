@@ -1,29 +1,15 @@
 
-# Changeme
-To change this file, modify settings.yaml and templates/README.md, then run 
-```
-git submodule update -init
-make all
-```
+# Waveshare-Case
+3D printable Lid for the Waveshare POE adapter board
 
-**Do not edit README.md directly as it will be overwritten..**
+I have a CM-10-POE-Box, however I lost the lid. 
+Included are 2 designs:
+1. Plain
+2. Home Assistant
 
-
-
-## :globe_with_meridians: Links
+The Home Assistant model contains the HA logo. Use multiple colors to make the logo stand out
 
 
-**Autodesk Fusion 360 file**: [https://autodesk.example.com](https://autodesk.example.com)
-
-
-- **Thingiverse**: [https://www.thingiverse.com/thing:xxxx](https://www.thingiverse.com/thing:xxxx)
-- **Printables**: [https://foo.com](https://foo.com)
-- **GrabCad**: [https://foo.com](https://foo.com)
-- **Hackster.io**: [https://hackster.io/foo](https://hackster.io/foo)
-- **Hackaday**: [https://hackaday.io/foo](https://hackaday.io/foo)
-- **Reddit**: [https://www.reddit.com/r/foo](https://www.reddit.com/r/foo)
-- **Github**: [https://github.com/foo](https://github.com/foo)
-- **Blog**: [https://foo.com](https://foo.com)
 
 ## :triangular_ruler: CAD files
 
@@ -33,24 +19,33 @@ make all
 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
-| [CAD/cube.stl](./CAD%2Fcube.stl) | ![](./CAD%2Fcube.png) | ![](./CAD%2Fcube.gif) | 
-| [CAD/sphere.stl](./CAD%2Fsphere.stl) | ![](./CAD%2Fsphere.png) | ![](./CAD%2Fsphere.gif) | 
+| [CAD/Waveshare Case.stl](./CAD%2FWaveshare%20Case.stl) | ![](./CAD%2FWaveshare%20Case.png) | ![](./CAD%2FWaveshare%20Case.gif) | 
+| [CAD/Waveshare Case- Home Assistant.stl](./CAD%2FWaveshare%20Case-%20Home%20Assistant.stl) | ![](./CAD%2FWaveshare%20Case-%20Home%20Assistant.png) | ![](./CAD%2FWaveshare%20Case-%20Home%20Assistant.gif) | 
+
 
 ## :notebook: Resources
-- [foo](https://example.com)
+- [Waveshare Compute Module 3](https://www.waveshare.com/product/raspberry-pi/boards-kits/compute-module/cm-io-poe-box.htm)
 
 ## :camera: Photos
-![](photos%2Ffoo.jpg)
-![](photos%2Fbar.jpg)
+![](photos%2FIMG_3019.jpeg)
+![](photos%2FIMG_3018.jpeg)
+![](photos%2FIMG_3022.jpeg)
+![](photos%2FIMG_3017.jpeg)
+![](photos%2FIMG_3020.jpeg)
+![](photos%2Fcropped)
 
 ---
 
-:warning: License missing. Please modify settings.yaml with desired license
-e.g: 
-```
-license: 
-  type: CC-Attribution
-```
+## Creative Commons License-'Attribution'
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+|  |  | 
+|---|---|
+| :white_check_mark: | Share / Redistribute | 
+| :x: | Sharing without ATTRIBUTION |
+| :white_check_mark: | Remix allowed | 
+| :white_check_mark: | Share Remixes | 
+| :white_check_mark: | Commercial Use | 
+| :white_check_mark: | Share remixes under new license | 
 
 
 ---
