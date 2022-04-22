@@ -16,6 +16,7 @@ The Home Assistant model contains the HA logo. Use multiple colors to make the l
 
 
 - **Printables**: [https://www.printables.com/model/174287-waveshare-raspberry-pi-compute-module-case-lid](https://www.printables.com/model/174287-waveshare-raspberry-pi-compute-module-case-lid)
+- **Thangs**: [https://thangs.com/mythangs/file/62130?activeBottomTab=history&activeViewer=single&wwNewVersion=true](https://thangs.com/mythangs/file/62130?activeBottomTab=history&activeViewer=single&wwNewVersion=true)
 
 ## :triangular_ruler: CAD files
 
